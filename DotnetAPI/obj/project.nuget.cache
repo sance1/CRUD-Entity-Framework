@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cZooDLWVmtc=",
+  "dgSpecHash": "8Y1re2z9zlw=",
   "success": true,
-  "projectFilePath": "D:\\C#\\CRUD Entity Framework\\DotnetAPI\\DotnetAPI.csproj",
+  "projectFilePath": "D:\\C#\\CRUD Entity Framework\\dotnetapi\\DotnetAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sance\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\sance\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

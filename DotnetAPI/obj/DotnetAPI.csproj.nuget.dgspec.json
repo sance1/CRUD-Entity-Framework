@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\CRUD Entity Framework\\DotnetAPI\\DotnetAPI.csproj": {}
+    "D:\\C#\\CRUD Entity Framework\\dotnetapi\\DotnetAPI.csproj": {}
   },
   "projects": {
-    "D:\\C#\\CRUD Entity Framework\\DotnetAPI\\DotnetAPI.csproj": {
+    "D:\\C#\\CRUD Entity Framework\\dotnetapi\\DotnetAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\CRUD Entity Framework\\DotnetAPI\\DotnetAPI.csproj",
+        "projectUniqueName": "D:\\C#\\CRUD Entity Framework\\dotnetapi\\DotnetAPI.csproj",
         "projectName": "DotnetAPI",
-        "projectPath": "D:\\C#\\CRUD Entity Framework\\DotnetAPI\\DotnetAPI.csproj",
+        "projectPath": "D:\\C#\\CRUD Entity Framework\\dotnetapi\\DotnetAPI.csproj",
         "packagesPath": "C:\\Users\\sance\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\CRUD Entity Framework\\DotnetAPI\\obj\\",
+        "outputPath": "D:\\C#\\CRUD Entity Framework\\dotnetapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sance\\AppData\\Roaming\\NuGet\\NuGet.Config"
